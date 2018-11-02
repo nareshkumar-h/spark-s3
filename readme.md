@@ -1,4 +1,4 @@
-#### Input Files
+#### Input Data
 
 |          eventTime|  name|creditCardNo|    eventDate|
 ---|---|---|--|
@@ -7,7 +7,7 @@
 |2018-11-01 07:45:30| User2|           2|1541038530000|
 |2018-11-01 07:45:30| User2|           2|1541038530000|
 
-#### Output Files (After Removing Duplicates)
+#### Output Data (After Removing Duplicates)
 
 |          eventTime|  name|creditCardNo|    eventDate|
 ---|---|---|--|
